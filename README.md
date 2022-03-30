@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karina</h1>
-<h3 align="center">Lifelong learner, Web developer passionate about frontend development from Colombia</h3>
+<h3 align="center">Lifelong learner and Web developer, passionate about frontend development from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karvaroz&label=Profile%20views&color=0e75b6&style=flat" alt="karvaroz" /> </p>
 
