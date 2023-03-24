@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karina</h1>
 <h3 align="center">Lifelong learner and Web developer, passionate about frontend development from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karvaroz&label=Profile%20views&color=0e75b6&style=flat" alt="karvaroz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/vargasriosk" target="blank"><img src="https://img.shields.io/twitter/follow/vargasriosk?logo=twitter&style=for-the-badge" alt="vargasriosk" /></a> </p>
-
 - 🔭 I’m currently working on **a React Ecommerce Project**
 
 - 🌱 I’m currently learning **React.js, Material Design**
