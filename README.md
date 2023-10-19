@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karina</h1>
 <h3 align="center">Lifelong learner and Web developer, passionate about frontend development from Colombia</h3>
 
-- 🔭 I’m currently working on **a React Ecommerce Project**
+- 🔭 I’m currently working on **a Fullstack Developer**
 
-- 🌱 I’m currently learning **React.js, Material Design**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
-- 👯 I’m looking to collaborate on **a Frontend Position**
+- 👯 I’m looking to collaborate on **a Developer Position**
 
 - 📫 How to reach me **vargasriosk@gmail.com**
 
