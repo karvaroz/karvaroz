@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karvaroz&label=Profile%20views&color=0e75b6&style=flat" alt="karvaroz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karvaroz" alt="karvaroz" /></a> </p>
-
 - 🔭 I’m currently working on **as part of the IT team at a healthcare insurance company, where I help build and maintain systems that impact people’s well-being**
 
 - 🌱 I’m currently learning **everything I can! 💻🔥**
